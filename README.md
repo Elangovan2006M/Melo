@@ -56,7 +56,7 @@ Unlike traditional music apps that rely on static databases or paid APIs, Melo a
 
 You can download the latest APK release for Android here:
 
-[**⬇️ Download Melo APK**](https://www.google.com/search?q=YOUR_GOOGLE_DRIVE_OR_DROPBOX_LINK_HERE)
+[**⬇️ Download Melo APK**]([https://www.google.com/search?q=YOUR_GOOGLE_DRIVE_OR_DROPBOX_LINK_HERE](https://drive.google.com/file/d/1hhoWrC8lOlav23zFhpu_Wz6hE6MJ_bUi/view?usp=sharing))
 
 ## **🤝 Contributing**
 
